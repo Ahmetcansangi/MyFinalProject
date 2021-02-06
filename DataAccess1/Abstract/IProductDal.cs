@@ -1,4 +1,5 @@
-﻿using DataAccess1.Abstract;
+﻿using Core.DataAccess;
+using DataAccess1.Abstract;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
@@ -12,3 +13,5 @@ namespace DataAccess.Abstract
 
     }
 }
+
+// Code Refe
